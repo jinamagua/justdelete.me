@@ -2150,7 +2150,18 @@
             "grooveshark.com"
         ]
     },
-
+    
+    {
+        "name": "GroupMe",
+        "url": "http://help.groupme.com/entries/69185694-How-Do-I-Delete-My-GroupMe-Account-",
+        "difficulty": "hard",
+        "email": "support@groupme.com",
+        "notes": "You'll need to email GroupMe support and provide the email and phone number associated with the account to remove it"
+        "domains": [
+            "groupme.com"
+        ]
+    },
+    
     {
         "meta": "popular",
         "name": "Groupon",
